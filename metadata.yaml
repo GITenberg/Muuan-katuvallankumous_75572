@@ -1,0 +1,36 @@
+_repo: Muuan-katuvallankumous_75572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2025-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75572'
+language: fi
+pgterms:marc905: 20250124063524hamsun
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Tapio Riikonen
+publication_note: '  $aKaleva, Mich :$bSuomalais-amerik. kustannusyhtiö, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Muuan katuvallankumous
+url: http://www.gutenberg.org/ebooks/75572
